@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colors for the background -->
+    <color name="backgroundColor">#0E0E0E</color>
+
+    <!-- Colors to add a little pop to the buttons -->
+    <color name="greyAccent">#afb9c5</color>
+    <color name="buttonBackground">#66222A2E</color>
+
+    <!-- Clear Button Colors -->
+    <color name="redBackground">#806C0808</color>
+
+    <!-- Equals Button Colors -->
+    <color name="greenBackground">#4040B315</color>
+    <color name="greenAccent">#2ffd64</color>
+
+    <!-- Math Operator Button Colors -->
+    <color name="purpleBackground">#330133</color>
+    <color name="purpleAccent">#de00de</color>
+</resources>
